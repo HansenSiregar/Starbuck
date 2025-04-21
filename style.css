@@ -1,0 +1,43 @@
+.whatsapp-logo {
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+    width: 30px;
+    height: auto;
+  }
+.tiktok-logo {
+    position: absolute;
+    left: 60px;
+    bottom: 20px;
+    width: 30px;
+    height: auto;
+  }
+.instagram-logo {
+    position: absolute;
+    left: 100px;
+    bottom: 20px;
+    width: 30px;
+    height: auto;
+  }
+  .starbuck-logo {
+    position: absolute;
+    left: 30px;
+    bottom: 90px;
+    width: 100px;
+    height: auto;
+  }
+  .starbucks-logo {
+    
+    width: 150px;
+    height: auto;
+  }
+
+  
+
+  .footer-container {
+    position: relative;
+    padding: 5rem;
+    background-color: #198754; /* bg-success */
+    color: white;
+    text-align: center;
+  }
